@@ -6,5 +6,5 @@
 namespace Iris
 {
 	template<class T>
-	U8 Digits(const T);
+	U8 IFC Digits(const T);
 }
